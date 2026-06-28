@@ -85,6 +85,10 @@ The workflow consists of the following stages:
 
 The K-Means++ algorithm successfully segmented customers into four distinct groups based on their RFM characteristics.
 
+<p align="center">
+  <img src="ảnh/phanbokh.png" width="900">
+</p>
+
 | Cluster | Segment | Description |
 |---------|----------|-------------|
 | 0 | Regular Customers | Average purchasing behavior. |
